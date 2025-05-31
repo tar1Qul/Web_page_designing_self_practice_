@@ -1,38 +1,29 @@
-Thia ripository is for building my portfolio. Here is I web page which I designed by observing a page which was designed by figma and designed this with HTML&CSS.
-I designed this page for self practice.
+# Web Page Designing Self Practice
 
+This repository is for building my portfolio.  
+Here is a web page that I designed by observing a design made in Figma.  
+I built this with **HTML & CSS**. This page was created for self-practice.
 
+---
 
-Here I used below mentioned Technologies 
+## 🚀 Technologies Used
 
-1. HTML (HyperText Markup Language)
-Used for structuring your webpage.
+1. **HTML (HyperText Markup Language)**  
+   Used for structuring the webpage.
 
-I’ve included common semantic tags like:
-<div>, <h1> to <h4>, <p>, <button>, <img>, <section>, <footer>, <a>, etc.
+   I've included common semantic tags like:
+   - `<div>`
+   - `<h1>`, `<p>`, `<section>`, `<footer>`, etc.
 
-2. CSS (Cascading Style Sheets)
-Used for styling your page.
+2. **CSS (Cascading Style Sheets)**  
+   Used for styling:
+   - Flexbox layout (`display: flex`, `justify-content`, `align-items`)
+   - `background-image`, `border-radius`, `box-shadow`, `linear-gradient(...)`
+   - Custom buttons and hover effects
+   - Fonts from [Google Fonts](https://fonts.google.com/)
+   - Media queries for responsive design (mobile, tablet, laptop)
 
-I’ve used:
-Custom classes and IDs for layout and design.
-Flexbox for layout: display: flex;, justify-content, align-items, etc.
-background-image, border-radius, box-shadow, etc.
-Gradients: linear-gradient(...)
-Custom buttons and hover styles.
-Fonts from Google Fonts (Plus Jakarta Sans).
-Responsive design using Media Queries:
-For laptops, tablets, and mobile devices (max-width values).
-
-3. Font Awesome Icons
-You’ve included Font Awesome via CDN:
-
-html
-Copy
-Edit
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/...">
-Used for social icons like:
-
-<i class="fab fa-facebook"></i>
-
-<i class="fab fa-instagram"></i>, etc.
+3. **Font Awesome Icons**  
+   Included via CDN:
+   ```html
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
